@@ -1,4 +1,4 @@
-## [Media Search bot](https://github.com/Mahesh0253/Media-Search-bot)
+## [Media Search bot](https://github.com/Achu2234/musicsearchbot)
 
 * Index channel/group files for inline search.
 * When you going to post file on telegram channel/group this bot will save that in database, So you can search that easily in inline mode.
@@ -7,7 +7,8 @@
 ### Installation
 
 #### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/musicsearchbot)
+
 
 #### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
 
