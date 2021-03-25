@@ -26,9 +26,20 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi, I'm Anime Music Serach bot**
 
-Here you can search files in inline mode. Just press following buttons and start searching.
+Here you can search Anime Musics in inline mode. Just press following buttons and start searching.
+
+A Bot dedicated for anime music  
+
+Our Anime Music Channel : https://t.me/Animemusicarchive6
+
+Check out these Anime Bots  also
+ @anim65eworldbot
+ @animedsearchbot
+ 
+ My Master : @Amalbiju154
+
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
