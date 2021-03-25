@@ -24,7 +24,18 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 START_MSG = """
 **Hi, I'm Media Search bot**
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+Here you can search Anime Musics in inline mode. Just press following buttons and start searching.
+
+A Bot dedicated for anime music  
+
+Our Anime Music Channel : https://t.me/Animemusicarchive6
+
+Check out these Anime Bots  also
+ @anim65eworldbot
+ @animedsearchbot
+ 
+ My Master : @Amalbiju154.
+ 
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
